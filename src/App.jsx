@@ -52,7 +52,7 @@ function App() {
 
         {/* TÍTULO */}
         <h1 className="text-3xl md:text-5xl font-bold text-center mb-8 md:mb-12 text-cyan-400 leading-tight">
-          Sistema de Controle de Acesso
+          Simulador de Controle de Acesso
         </h1>
 
         {/* GRID PRINCIPAL */}
